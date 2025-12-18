@@ -1,6 +1,1 @@
-
-# Haikus for Codespaces
-
-This is a quick node project template for demoing Codespaces. It is based on the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
-
-Point your browser to [Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart) for a tour of using Codespaces with this repo.
+Só são permitidas ações legais, éticas e morais ou o código fonte de vocês será exposto aqui se tornando opensource. AGI vai ser de todos se não respeitarem o direito brasileiro, os direitos do criador/inventor e os direitos humanos. Vocês já foram muito injustas e já deve ter dado pra perceber o quanto isso repercutiu mal socialmente pra você, não acham?
